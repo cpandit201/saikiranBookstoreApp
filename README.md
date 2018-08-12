@@ -1,8 +1,6 @@
 # Saikiran Bookstores App
 ##### An Online Retail Management and Custommer Order Processing System
 
-![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=bUJrcGM5VGd4ajRzdHc4a1BFRjRuSTh3QTJEOEpxVWRITHpQTnBkVXpMST0tLXN1eHlWcnhrZzVCSjRmeFpEY29uZ0E9PQ==--493168ce6719b5f9368b52b9ec6292aab2cf4024)
-
 Follow the documentation and the blackbook here
 http://www.4shared.com/office/AEf2a-PW/Binder2.html
 
@@ -51,10 +49,6 @@ Prerequisites - Must be having on the client computer before installation
 * Run your project copy
 * Custommize the products and users as per your requirement
 * Done
-
-### Testing Partners
-
-![Testing partners Browserstack](/web/images/logo/Browserstack-logo1.png)
 
 ### Licence
 Project is [MIT licensed](./LICENSE).
